@@ -26,13 +26,7 @@
       <rect x="1180" y="0" width="200" height="280" fill="#ffffff" fill-opacity="0.04"/>
     </g>
 
-    <!-- 왼쪽 위 강조 막대 -->
-    <g transform="skewX(-20)">
-      <rect x="110" y="70" width="10" height="44" fill="#f99e1a"/>
-    </g>
-
-    <text x="112" y="104" fill="#f99e1a" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">PLAYER PROFILE</text>
-    <text x="80" y="190" fill="#ffffff" font-family="Segoe UI, Arial Black, Arial, sans-serif" font-size="78" font-weight="900" font-style="italic" letter-spacing="1">no2thingmore</text>
+    <text x="80" y="164" fill="#ffffff" font-family="Segoe UI, Arial Black, Arial, sans-serif" font-size="78" font-weight="900" font-style="italic" letter-spacing="1">no2thingmore</text>
 
     <!-- 아래 진행 바 -->
     <rect x="0" y="272" width="1280" height="8" fill="#ffffff" fill-opacity="0.06"/>

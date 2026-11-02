@@ -1,7 +1,3 @@
-<img src="banner.svg" alt="no2thingmore" width="100%">
-
-<br>
-
 ### 🟧 프로젝트
 
 <table>

@@ -13,9 +13,9 @@
 
 이번 판에 고를 영웅을 바로 추천하는 Windows 도구. 게임 화면에서 맵, 밴, 양 팀 조합을 읽어 계산
 
-- 🎯 맵·밴·아군·적군 자동 인식
-- 📈 공식 통계 + 상성·시너지·조합으로 추천
-- 📌 게임 위 작은 오버레이 창
+- 맵·밴·아군·적군 자동 인식
+- 공식 통계 + 상성·시너지·조합으로 추천
+- 게임 위 작은 오버레이 창
 
 <a href="https://github.com/no2thingmore/ow-map-picker-release/releases/latest"><img src="https://img.shields.io/github/v/release/no2thingmore/ow-map-picker-release?style=for-the-badge&label=%EB%B0%9B%EA%B8%B0&color=f99e1a&labelColor=1c2a42" alt="최신 버전 받기"></a>
 
